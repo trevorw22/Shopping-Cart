@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>ProductImages/adboard.jpg</ImageUrl>
+    <NavigateUrl>https://www.burton.com</NavigateUrl>
+    <AlternateText>Burton Snowboards</AlternateText>
+    <Keyword>Burton</Keyword>
+    <Impressions>25</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>ProductImages/adboard2.jpg</ImageUrl>
+    <NavigateUrl>http://www.the-house.com</NavigateUrl>
+    <AlternateText>The House Snowboards</AlternateText>
+    <Keyword>TheHouse</Keyword>
+    <Impressions>25</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>ProductImages/adboard3.jpg</ImageUrl>
+    <NavigateUrl>https://www.backcountry.com</NavigateUrl>
+    <AlternateText>Backcountry Snowboards</AlternateText>
+    <Keyword>Backcountry</Keyword>
+    <Impressions>50</Impressions>
+  </Ad>
+</Advertisements>
+
